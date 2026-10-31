@@ -25,3 +25,11 @@
 - **同文异名**：`paper/Beyond Named Entities….md` 与多个压缩包中的 `LICR_dissertation_english.md` 字节相同（同一文档），去重后保留论文名；`research/超越命名实体….md` 与 `implicit_concept_recognition_dissertation.md` 同理。`LICR_README.md` 与 `code/README.md` 亦为同文。
 - journal 索引中 `journal__16-cloud_backup_2026-01-12.txt` 混含微调研究条目，对应的微调 transcript 在姊妹仓库 `llm-finetuning-semantic-preservation`。
 - 文件修改时间保留自原始资料；zip 不含创建时间，故创建时间与修改时间一致。
+
+## 许可与引用
+
+Copyright © 2026 Math Fournity。本项目（研究文档、代码与对话记录）以 **[CC BY 4.0](./LICENSE)**（Creative Commons Attribution 4.0 International）许可发布：使用、转载、改编须署名并注明许可。
+
+引用格式建议：
+
+> Math Fournity. *LICR: LLM-based Implicit Concept Recognition 研究档案* [Research Archive]. GitHub, 2026. https://github.com/math-fournity/licr-implicit-concept-recognition
