@@ -1,0 +1,12 @@
+# LICR: LLM-based Implicit Concept Recognition
+# Requirements
+
+# Core dependencies
+requests>=2.28.0
+
+# Optional: For OpenAI backend
+# openai>=1.0.0
+
+# Optional: For development
+# pytest>=7.0.0
+# black>=23.0.0
